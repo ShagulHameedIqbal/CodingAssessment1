@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WeQWXs3xzI/QS+OQhlbQCHdtuTz3+reKi7HU49ixMqJ13AyRcqMadNSaJ5ihnk3QeDvWOn/OOzcxM+sUQewm5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\14168\\source\\repos\\SpeedyAirlines.ly\\SpeedyAirlines.ly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14168\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
